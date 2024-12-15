@@ -1,0 +1,21 @@
+iDeviceJailbreakAssistant/
+│
+├── setup_jailbreak.py       # Main application file
+├── requirements.py          # Dependencies installer
+├── README.md               # GitHub markdown readme
+├── README.html            # HTML documentation
+├── README.txt             # Plain text documentation
+├── LICENSE               # License file
+│
+├── docs/                 # Documentation folder
+│   ├── images/          # Documentation images
+│   └── guides/          # Additional guides
+│
+├── downloads/           # Downloaded files directory
+│   └── .gitignore      # Ignore downloaded files
+│
+└── src/                # Source code
+    ├── __init__.py
+    ├── device_detection.py
+    ├── file_handling.py
+    └── utils.py
